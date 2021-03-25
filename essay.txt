@@ -1,2 +1,7 @@
 Line 1
+<<<<<<< HEAD
 Line 2
+=======
+Line2
+>>>>>>> 9a91aca0a115a2e0e9f4c6fad2becfb8adc74eb4
+Line 3
